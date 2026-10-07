@@ -1,0 +1,11 @@
+/build/
+events.csv
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.zip
+/.vs/
+.DS_Store
+Thumbs.db
